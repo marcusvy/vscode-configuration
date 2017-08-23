@@ -1,0 +1,29 @@
+{
+	// See http://go.microsoft.com/fwlink/?LinkId=827846
+	// for the documentation about the extensions.json format
+	"recommendations": [
+		// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+		"bmewburn.vscode-intelephense-client",
+		"christian-kohler.npm-intellisense",
+		"EditorConfig.EditorConfig",
+		"felixfbecker.php-debug",
+		"felixfbecker.php-intellisense",
+		"felixfbecker.php-pack",
+		"HookyQR.beautify",
+		"jakethashi.vscode-angular2-emmet",
+		"joelday.docthis",
+		"johnpapa.Angular2",
+		"linyang95.php-symbols",
+		"marcuskaz.theme-chester",
+		"mrmlnc.vscode-apache",
+		"neilbrayfield.php-docblocker",
+		"PeterJausovec.vscode-docker",
+		"PKief.material-icon-theme",
+		"robinbentley.sass-indented",
+		"sasa.vscode-sass-format",
+		"Sophisticode.php-formatter",
+		"steoates.autoimport",
+		"WallabyJs.quokka-vscode",
+		"wwm.better-align"
+	]
+}
